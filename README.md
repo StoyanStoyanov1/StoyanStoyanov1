@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
-<h3 align="center">I study at Soft Uni, Soft Uni is a Bulgarian university.</h3>
+<h3 align="center">🎓 I'm proud to be one of the top students for software development with Python at Soft Uni in 2023.</h3>
 
+- 🔍 About Me
+- 💻 Passionate about software development, especially with Python.
+- 🎯 Always striving for excellence and continuous improvement in my coding journey.
+- 🤝 I love collaborating on projects and am always open to new challenges.
 - 🌱 I’m currently learning **CSS, HTML, JS, Python**
-
 - 📫 How to reach me **stoyan.stoyanov93@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
