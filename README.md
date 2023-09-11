@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
 <h3 align="center">I study at Soft Uni, Soft Uni is a Bulgarian university.</h3>
 
-- 🌱 I’m currently learning **CSS, HTML, JS**
+- 🌱 I’m currently learning **CSS, HTML, JS, Python**
 
 - 📫 How to reach me **stoyan.stoyanov93@yahoo.com**
 
