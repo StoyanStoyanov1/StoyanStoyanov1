@@ -7,7 +7,9 @@
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
 - 🤝 I love collaborating on projects and am always open to new challenges.
 - 🌱 I’m currently learning **CSS, HTML, JS, Python**
-- 📫 How to reach me **stoyan.stoyanov93@yahoo.com**
+- ## 📫 How to Reach Me
+- 📧 Email: [stoyan.stoyanov93@yahoo.com](mailto:stoyan.stoyanov93@yahoo.com)
+- Feel free to explore my repositories and drop a star if you find something interesting! ⭐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
