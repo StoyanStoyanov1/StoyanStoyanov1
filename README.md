@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
 <h3 align="center">🔍 About Me</h3>
 
+
 - 🎓 I'm proud to be one of the top students for software development with Python at Soft Uni in 2023.
 - 💻 Passionate about software development, especially with Python.
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
