@@ -6,7 +6,7 @@
 - 💻 Passionate about software development, especially with Python.
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
 - 🤝 I love collaborating on projects and am always open to new challenges.
-- 🌱 I’m currently learning **CSS, HTML, JS, Python**
+- 🌱 I’m currently learning **DB**
 - ## 📫 How to Reach Me
 - 📧 Email: [stoyan.stoyanov93@yahoo.com](mailto:stoyan.stoyanov93@yahoo.com)
 - Feel free to explore my repositories and drop a star if you find something interesting! ⭐
