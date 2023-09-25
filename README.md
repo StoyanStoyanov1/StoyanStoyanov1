@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
 <h3 align="left">🔍 About Me</h3>
 
@@ -30,7 +24,3 @@
 
 ![Stenlyy's Stats](https://github-readme-stats.vercel.app/api?username=Stenlyy&theme=radical&show_icons=true&hide_border=true&count_private=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stenlyy&theme=tokyonight)
-
-
-</body>
-</html>
