@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
-<h3 align="left">🔍 About Me</h3>
-
-
+<h3 align="center">🔍 About Me</h3>
 - 🎓 I'm proud to be one of the top students for software development with Python at Soft Uni in 2023.
 - 💻 Passionate about software development, especially with Python.
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
 - 🤝 I love collaborating on projects and am always open to new challenges.
 - 🌱 I’m currently learning **SQL, JavaScript, HTML, CSS**
-
-<h3 aling="left">📫 How to Reach Me</h3>
+- ## 📫 How to Reach Me
 - 📧 Email: [stoyan.stoyanov93@yahoo.com](mailto:stoyan.stoyanov93@yahoo.com)
 - Feel free to explore my repositories and drop a star if you find something interesting! ⭐
 
@@ -23,4 +20,3 @@
 
 
 ![Stenlyy's Stats](https://github-readme-stats.vercel.app/api?username=Stenlyy&theme=radical&show_icons=true&hide_border=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stenlyy&theme=tokyonight)
