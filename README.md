@@ -23,4 +23,5 @@
 
 
 ![Stenlyy's Stats](https://github-readme-stats.vercel.app/api?username=Stenlyy&theme=radical&show_icons=true&hide_border=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stenlyy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stenlyy&layout=compact&theme=dark)
+
