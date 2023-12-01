@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
 <h3 align="left">🔍 About Me</h3>
 
-
-- 🎓 I'm proud to be one of the top students for software development with Python at Soft Uni in 2023.
-- 💻 Passionate about software development with Python.
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
 - 🤝 I love collaborating on projects and am always open to new challenges.
+- 💻 Passionate about software development with Python.
 - 🌱 I’m currently learning **HTML, CSS, JS**
 - ## 📫 How to Reach Me
 - 📧 Email: [stoyan.stoyanov93@yahoo.com](mailto:stoyan.stoyanov93@yahoo.com)
