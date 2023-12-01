@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
 <h3 align="left">🔍 About Me</h3>
 
+- 💻 Motivated Junior Developer
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
 - 🤝 I love collaborating on projects and am always open to new challenges.
-- 💻 Motivated Junior Developer
+
 - ## 📫 How to Reach Me
 - 📧 Email: [stoyan.stoyanov93@yahoo.com](mailto:stoyan.stoyanov93@yahoo.com)
 - Feel free to explore my repositories and drop a star if you find something interesting! ⭐
