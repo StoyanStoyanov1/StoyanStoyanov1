@@ -3,7 +3,7 @@
 <h3 align="left">🔍 About Me</h3>
 
 - 💻 I am Motivated Junior Developer.
-- 🎯 Always striving for excellence and continuous improvement in my coding journey.
+- 🎯 Always striving for excellence and continuous improvement in my coding journey. 
 - 🤝 I love collaborating on projects and am always open to new challenges.
 
 - ## 📫 How to Reach Me
