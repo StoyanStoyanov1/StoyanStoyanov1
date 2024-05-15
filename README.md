@@ -5,7 +5,6 @@
 - 💻 I am Motivated Junior Developer.
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
 - 🤝 I love collaborating on projects and am always open to new challenges.
-- 🌐 Learn more about me <a href='https://stoyan-stoyanov.000webhostapp.com/index.html'>here</a>.
 
 - ## 📫 How to Reach Me
 - 📧 Email: [stoyan.stoyanov93@yahoo.com](mailto:stoyan.stoyanov93@yahoo.com)
