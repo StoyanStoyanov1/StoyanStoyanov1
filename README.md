@@ -17,7 +17,6 @@
 <a href="https://instagram.com/stoyan.stoyanov931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoyan.stoyanov931" height="30" width="40" /></a></a>
 </p>
 
-🛠️ Languages and Tools:
 🧑‍💻 Programming Languages:
 <p align="left">
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
