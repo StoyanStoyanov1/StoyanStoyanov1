@@ -26,6 +26,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
    </a>
 </p>
+
 🌐 Frontend Development:
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -38,6 +39,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
    </a>
 </p>
+
 🛠️ Backend Development:
 <p align="left">
    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -47,6 +49,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
    </a>
 </p>
+
 🗄️ Databases:
 <p align="left">
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -56,6 +59,14 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
    </a>
 </p>
+
+🛠️ DevOps / Containerization:
+<p align="left">
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+   </a>
+</p>
+
 🔧 Testing:
 <p align="left">
       <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
@@ -67,6 +78,7 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
    </a>
 </p>
+
 📡 API Testing:
 <p align="left">
    <a href="https://postman.com" target="_blank" rel="noreferrer">
