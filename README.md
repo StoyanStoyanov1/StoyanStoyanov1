@@ -42,7 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a> 
   <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Vitest_Logo.svg" alt="vitest" width="40" height="40" />
+    <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40" />
   </a>
 </p>
 
