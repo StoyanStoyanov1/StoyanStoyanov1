@@ -19,7 +19,19 @@
 
 🧠 AI Tools / Productivity:
 
-<p align="left"> <a href="https://www.cursor.sh/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/125107839?s=200&v=4" alt="Cursor" width="40" height="40"/> </a> <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/copilot-1.svg" alt="GitHub Copilot" width="40" height="40"/> </a> <a href="https://claude.ai/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Anthropic_logo.svg/512px-Anthropic_logo.svg.png" alt="Claude" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cursor.sh/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/125107839?s=200&v=4" alt="Cursor" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Copilot" width="40" height="40"/> 
+    <span style="font-size: 14px;">Copilot</span>
+  </a> 
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/110732270?s=200&v=4" alt="Claude" width="40" height="40"/> 
+  </a> 
+</p>
+
 
 🧑‍💻 Programming Languages:
 
