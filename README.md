@@ -17,27 +17,6 @@
 <a href="https://instagram.com/stoyan.stoyanov931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stoyan.stoyanov931" height="30" width="40" /></a></a>
 </p>
 
-🧠 AI Tools / Productivity:
-
-<p align="left"> 
-  <!-- Cursor -->
-  <a href="https://www.cursor.sh/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/melanieshi0120/web-dev-icon/cursor.png" alt="Cursor" width="40" height="40" style="border-radius: 6px; background: white; padding: 2px;" /> 
-  </a> 
-
-  <!-- GitHub Copilot -->
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/109386206?s=200&v=4" alt="Copilot" width="40" height="40" style="border-radius: 6px; background: white; padding: 2px;" /> 
-  </a> 
-
-  <!-- Claude / Anthropic -->
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/A/anthropic-logo-1DD16ED6D3-seeklogo.com.png" alt="Claude" width="40" height="40" style="border-radius: 6px; background: white; padding: 2px;" /> 
-  </a> 
-</p>
-
-
-
 🧑‍💻 Programming Languages:
 
 <p align="left"> 
