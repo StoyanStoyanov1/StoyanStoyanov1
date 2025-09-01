@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stoyan Stoyanov</h1>
 <h3 align="left">🔍 About Me</h3>
 
-- 💻 I am Motivated Junior Developer.
+- 💻 I am Motivated Software developer.
 - 🎯 Always striving for excellence and continuous improvement in my coding journey.
 - 🤝 I love collaborating on projects and am always open to new challenges.
 
